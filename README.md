@@ -1,2 +1,1 @@
-# ec2-terraform
-# ec2-terraform
+In this project, i provisioned an AWS Auto Scaling Group (ASG), Elastic Load Balancing. Also created an IAM Group, User and Policy to restrict unauthorized users and group. This is to enhance security for my resources. Further, i also created Security Groups, Subnets, Vpc, and Internet Gateway using Iac (TERRAFORM).
